@@ -1,1 +1,1 @@
-Image identifier model on tensor flow
+Image identifier model on Tensorflow with image cleaning and converting to RGB.
